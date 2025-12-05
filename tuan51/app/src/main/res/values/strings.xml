@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UTH SmartTasks</string>
+    <!-- Replace this with your actual Firebase Web Client ID from Firebase Console -->
+    <!-- Go to: Firebase Console > Project Settings > General > Your apps > Web API Key -->
+    <string name="default_web_client_id">484654597533-8c9os9mth6pkpuspgm3veu3kqmf940jd.apps.googleusercontent.com</string>
+</resources>
